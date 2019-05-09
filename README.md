@@ -66,8 +66,6 @@ Then, from within your project folder:
 npm run build
 surge public
 ```
-
-
 # Changes
 
 1. Added eslint, sveltejs/eslint
